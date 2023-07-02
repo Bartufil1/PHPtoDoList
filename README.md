@@ -1,5 +1,4 @@
 # PHPtoDoList
-PHPtoDoList
 Rejestracja użytkownika
 ![1](https://github.com/Bartufil1/PHPtoDoList/assets/104689537/9e1b9c4f-2bfc-4ffe-83bf-69556bd0ffd6)
 
